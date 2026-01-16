@@ -1,0 +1,8 @@
+ondemand-sdk-airev==1.5.2
+pydicom==2.4.3
+nibabel==5.2.0
+numpy==1.26.0
+transformers==4.38.0
+torch==2.2.0
+python-dotenv==1.0.1
+requests==2.31.0
